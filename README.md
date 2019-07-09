@@ -6,3 +6,11 @@ https://rust-lang-nursery.github.io/rust-cookbook/
 
 
 Don't look at this. It's all terrible.
+
+
+TODO:
+  - Strings and parsing them
+  - Slices
+  - Messing with Vects
+  - Graphic Rendering stuffs
+  
